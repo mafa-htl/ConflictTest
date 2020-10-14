@@ -1,3 +1,4 @@
 <h1>ConflictTest</h1>
 
-First Line
+First Line <br>
+Second Line
